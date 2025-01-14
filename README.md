@@ -12,7 +12,7 @@ All packets saved to C:/vac/
 
 ## Emulate module
 
-You can also run module without steam and game using [vac-runner](github.com/ch4daev/vac-runner), with it you can fully recreate environment and perform dynamic analysis with attached debugger
+You can also run module without steam and game using [vac-runner](https://github.com/ch4daev/vac-runner), with it you can fully recreate environment and perform dynamic analysis with attached debugger
 
 
 
